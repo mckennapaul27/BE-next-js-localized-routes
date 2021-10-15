@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_layout_links",
+  "info": {
+    "name": "links",
+    "icon": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "newTab": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

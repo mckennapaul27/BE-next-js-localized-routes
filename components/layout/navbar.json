@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_navbars",
+  "info": {
+    "name": "navbar",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.links"
+    }
+  }
+}
